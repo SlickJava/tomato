@@ -27,7 +27,7 @@ Around a few weeks into development, Tomato was in an excellent state as it skip
 As a result I asked Ripped to do a full online public release of the current version in order to prevent the leaker from gaining any credit - and voila! Tomato went viral and became one of the most used clients of 2016, helped with the fact it was shared extensively on Youtube on many videos with over ~100,000 views.
 
 [Old Youtube Channel](https://www.youtube.com/channel/UC2Hb-pF_xXbh-pH97E2erJA) (remember I was 13 so expect a substantial amount of cringe)
-## How did it work?
+## How does it work?
 #section in progress
 
 Developing bypasses for an anticheat is an interesting task which can become complex at times. The first step is to become totally familiar with the anticheat you are dealing with - in this case [NoCheatPlus](https://github.com/NoCheatPlus/NoCheatPlus), which was the gold standard of all anticheats during that period. If your hack bypassed NCP, you could do anything you wanted on any server. 
