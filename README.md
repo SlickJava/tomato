@@ -16,7 +16,7 @@ Client runs on version 1.8 of Minecraft.
 [MPGH release](https://www.mpgh.net/forum/showthread.php?t=1102696)
 
 ## Backstory
-I developed Tomato during the summer holidays right on the brink of my first year of high school, just as I was starting Year 9 ( ~13 years old in New Zealand). The goal was to create the sleekest and most advanced client to bypass any existing anticheat for Minecraft. 
+I developed Tomato during the summer holidays right on the brink of my first year of high school, when I was around 13 years old. The goal was to create the sleekest and most advanced client to bypass any existing anticheat for Minecraft. 
 
 Tomato 0.2 was initially never meant to be released publicly, instead I was planning on developing the client up to a marketable product which would be sold and updated constantly up to anticheat standards.
 
