@@ -9,7 +9,7 @@ Client runs on version 1.8 of Minecraft.
 
 ![](https://i.imgur.com/WPJDo3Lg.jpg)
 
-[RippedGaming release (350,000 views)](https://www.youtube.com/watch?v=hOODKCNqqEM)
+[RippedGaming release (250,000 views)](https://www.youtube.com/watch?v=hOODKCNqqEM)
 
 [WizardHax release](https://www.wizardhax.com/2017/06/23/minecraft-tomato-client-1-8-x-hacked-client-download/)
 
