@@ -1,7 +1,7 @@
 # Tomato v0.2
 **1 million estimated downloads!**
 
-Welcome to the official page for the 2016's best hacked client for Minecraft! 
+Welcome to the official page for 2016's best hacked client for Minecraft! 
 
 All source code is modular, however you must develop your own wrapper for MCP.
 
