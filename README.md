@@ -28,7 +28,7 @@ As a result I asked Ripped to do a full online public release of the current ver
 
 Below is my old and extremely cringey 13 year old youtbe channel where I posted some snippets of bypasses :)
 
-[Old Youtube Channel](https://www.youtube.com/channel/UC2Hb-pF_xXbh-pH97E2erJA) (yes there is some strange language on there - but hey it was what you did bond with this kind of weird community ok)
+[Old Youtube Channel](https://www.youtube.com/channel/UC2Hb-pF_xXbh-pH97E2erJA) (yes there is some strange language on there - but hey it was what you did to bond with this kind of weird community ok)
 
 ## How does it work?
 #section in progress
