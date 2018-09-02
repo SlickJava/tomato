@@ -46,7 +46,7 @@ In Minecraft, standard old speeds increased your client tickspeed or timer in or
 
 However, at the time I thought that it was definitely not enough - as your speed had to stay within the range of NCP's checks, which made it quite unsatisfying. 
 
-After some playing around, I realised I could emulate the fastest form of travel without block property interference in Minecraft - which was literally sprint jumping in between a two block wide gap. 
+After some playing around, I realised I could emulate the fastest form of travel without block property interference in Minecraft - which was literally sprint jumping in between a two block wide gap.
 
 NCP's [SurvivalFly](https://github.com/NoCheatPlus/Docs/wiki/%5BMoving%5D-Survivalfly) check doesn't scan for blocks above you, which means you can quite sensibly pretend to have a line of blocks right above your head and zoom around. Using this knowledge and previous knowledge of adding a timer multiplier, we create this absolutely weirdly stunning speed - which in use looks like are bouncing up and down - hence the name "Y-port speed".
 
