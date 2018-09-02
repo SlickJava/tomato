@@ -20,7 +20,7 @@ Client runs on version 1.8 of Minecraft.
 ## Backstory
 Tomato was developed during the summer holidays right on the brink of my first year of high school. The goal was to create a pretty sweet client to bypass any existing anticheat for Minecraft, with a nice UI.
 
-Tomato 0.2 was initially never meant to be released as it was, but a few strange events happened along development which forced its release.
+Tomato 0.2 was initially never meant to be released as it was, but a few strange events happened along development which forced its release. So basically it was a three quarters done sort of thing which had some really cool stuff but was also kind of buggy.
 
 Around a few weeks into development, Tomato was in a relatively on point state as it skipped around the latest anticheat with ease. Through posting snippets of some decently spicy hacks on my channel, I caught the attention of a few prominent people in the community - one of whom was called RippedGaming. I decided to send a relatively reliable copy of Tomato to him as a sort of pre-alpha trial. With my permission, he gave Tomato away to two of his friends, one of whom decided to leak the client online :(
 
