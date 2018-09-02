@@ -1,5 +1,5 @@
 # Tomato v0.2
-**1 million estimated downloads!**
+**1 million estimated downloads! (based on adf.ly and youtube)**
 
 Welcome to the official page for 2016's best hacked client for Minecraft! 
 
