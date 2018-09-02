@@ -26,7 +26,7 @@ Around a few weeks into development, Tomato was in a relatively on point state a
 
 As a result I asked Ripped to do a full online public release of the current version in order to prevent the leaker from gaining any credit - and voila! Tomato went viral and became one of the most used clients of 2016, helped with the fact it was shared extensively on Youtube on many videos with over ~100,000 views, with a combined total of around 2,500,000 total views today.
 
-Below is my old and extremely cringey 13 year old youtbe channel where I posted some snippets of interesting bypasses :)
+Below is my old and extremely cringey 13 year old youtbe channel where I posted some snippets of bypasses :)
 
 [Old Youtube Channel](https://www.youtube.com/channel/UC2Hb-pF_xXbh-pH97E2erJA) (yes there is some strange language on there - but hey it was what you did bond with this kind of weird community ok)
 
