@@ -15,7 +15,7 @@ Client runs on version 1.8 of Minecraft.
 
 [MPGH release](https://www.mpgh.net/forum/showthread.php?t=1102696)
 
-...and more (I do think google has some)
+...and more, using the power of google
 
 ## Backstory
 Tomato was developed during the summer holidays right on the brink of my first year of high school. The goal was to create a pretty sweet client to bypass any existing anticheat for Minecraft, with a nice UI.
