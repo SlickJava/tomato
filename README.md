@@ -18,11 +18,11 @@ Client runs on version 1.8 of Minecraft.
 ...and more (you can use google)
 
 ## Backstory
-I developed Tomato during the summer holidays right on the brink of my first year of high school. The goal was to create a pretty sweet client to bypass any existing anticheat for Minecraft (and also make it look nice). 
+I developed Tomato during the summer holidays right on the brink of my first year of high school. The goal was to create a pretty sweet client to bypass any existing anticheat for Minecraft, which would also soothe your eyes from other pre-existing  client ui's. 
 
-Tomato 0.2 was initially never meant to be released as it was, but a few strange events happened along development which forced its release (so basically it was kind of buggy and kind of not buggy but it still was good)
+Tomato 0.2 was initially never meant to be released as it was, but a few strange events happened along development which forced its release (so basically it was kind of buggy and kind of not buggy but it still was good).
 
-Around a few weeks into development, Tomato was in a relatively on point state as it skipped around the latest anticheat with ease. Through posting snippets of some decently spicy hacks on my channel, I caught the attention of a few prominent people in the community - one of whom was called RippedGaming. I decided to send a relatively reliable copy of Tomato to him as a sort of pre-alpha trial. With my permission, he gave Tomato away to two of his friends, one of which (called MissCartoon) decided to leak the client online.
+Around a few weeks into development, Tomato was in a relatively on point state as it skipped around the latest anticheat with ease. Through posting snippets of some decently spicy hacks on my channel, I caught the attention of a few prominent people in the community - one of whom was called RippedGaming. I decided to send a relatively reliable copy of Tomato to him as a sort of pre-alpha trial. With my permission, he gave Tomato away to two of his friends, one of whom (called MissCartoon) decided to leak the client online.
 
 As a result I asked Ripped to do a full online public release of the current version in order to prevent the leaker from gaining any credit - and voila! Tomato went viral and became one of the most used clients of 2016, helped with the fact it was shared extensively on Youtube on many videos with over ~100,000 views, with a combined total of around 2,500,000 total views today.
 
