@@ -26,14 +26,11 @@ Around a few weeks into development, Tomato was in a relatively on point state a
 
 As a result I asked Ripped to do a full online public release of the current version in order to prevent the leaker from gaining any credit - and voila! Tomato went viral and became one of the most used clients of 2016, helped with the fact it was shared extensively on Youtube on many videos with over ~100,000 views, with a combined total of around 2,500,000 total views today.
 
-Below is my old and extremely cringey 13 year old youtbe channel where I posted some snippets of bypasses :)
-
-[Old Youtube Channel](https://www.youtube.com/channel/UC2Hb-pF_xXbh-pH97E2erJA) (yes there is some strange language on there - but hey it was what you did to bond with this kind of weird community ok)
 
 ## How does it work?
 #section in progress
 
-Developing bypasses for an anticheat is an interesting task which can become really weird at times - and I really am not kidding, some of the ideas were realllyyyy weird. The first step is to become totally familiar with the anticheat you are dealing with - in this case [NoCheatPlus](https://github.com/NoCheatPlus/NoCheatPlus), and the second step was to just brainstorm - if your hack bypassed NCP, it was very likely to bypass any server.
+Developing bypasses for an anticheat is an interesting task which can become really weird at times - and I really am not kidding, some of the ideas were really weird. The first step is to become totally familiar with the anticheat you are dealing with - in this case [NoCheatPlus](https://github.com/NoCheatPlus/NoCheatPlus), and the second step was to just brainstorm - if your hack bypassed NCP, it was very likely to bypass any server.
 
 ###  Fundamentals of NCP & Minecraft
 Before we dive into any hollywood-style hacks, we need to understand the fundamentals of how NCP exactly works - and more importantly how your Minecraft client communicates with the server, and how your packets eventually translate through to the NCP plugin.
